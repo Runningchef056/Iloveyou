@@ -2982,6 +2982,10 @@ button {
   background-color: #f54d4d;
 }
 
+.verse {
+  font-size: 2rem;
+}
+
 .about {
   font-family: "Space mono", monospace;
   font-size: 1.1rem;
